@@ -10,7 +10,7 @@ const config = {
     /**
      * The base path for indexing, all files and subfolders are public by this tool. For example `/Share`.
      */
-    base: "/Share",
+    base: "/",
     /**
      * Feature Caching
      * Enable Cloudflare cache for path pattern listed below.
